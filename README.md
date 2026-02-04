@@ -62,9 +62,3 @@ Course Link: https://tds.s-anand.net/#/
 ---
 
 
-This repository is both your learning journal and your GitHub practice ground.
-Maintain discipline and clarity — your commits, structure, and write-ups show your progress.
-
-By this, you will be well versed with git and github too
-
-Happy Learning! 🎉
