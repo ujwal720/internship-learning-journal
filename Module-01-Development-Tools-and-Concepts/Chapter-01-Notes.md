@@ -17,7 +17,7 @@ wsl --install ubuntu-24.04
 
 **step 4** : To Create Password 
 ```bash
-create default unix user account : somanath
+create default unix user account : ujwal
 new password:
 retypr new password:
 ``` 
